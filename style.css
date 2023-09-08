@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+   background-image: url(shrekpantano.png); 
+   color: rgb(162, 255, 162);
+}
+
+#mycanvas{
+    border-style: solid;
+    background-color:  white;
+}
